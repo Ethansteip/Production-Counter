@@ -43,7 +43,7 @@ PIR_PIN = 23
 number = 0
 date = 2
 count = 2
-mainLabel = "Heat Sealer Counter"
+mainLabel = "Production Counter"
 updatelabel = "Count updated successfully :D"
 
 
