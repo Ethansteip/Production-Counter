@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ethansteip/Production-Counter/blob/master/Screen%20Shot%202020-10-27%20at%2010.09.53%20AM.png" width="1000" title="hover text">
+  <img src="https://github.com/Ethansteip/Production-Counter/blob/master/Screen%20Shot%202020-10-27%20at%2010.15.11%20AM.png" width="1000" title="hover text">
   
 </p>
 
